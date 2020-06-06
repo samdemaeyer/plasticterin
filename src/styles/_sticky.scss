@@ -1,8 +1,8 @@
 .sticky {
   position: fixed;
-  width: calc(100vw - 2rem);
+  width: calc(100vw - (#{$nav-bar-padding} + #{$nav-bar-padding}));
   background: $white;
-  padding: 1rem;
+  padding: $nav-bar-padding;
   z-index: 100;
 
   &-top {

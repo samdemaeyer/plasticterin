@@ -4,9 +4,11 @@ $white: #fff;
 $main-logo-height: 50px;
 $main-logo-height-small: 30px;
 
-$nav-bar-height: calc(#{$main-logo-height} + 2rem);
-$nav-bar-height-small: calc(#{$main-logo-height-small} + 2rem);
+$nav-bar-padding: 1.5rem;
+$nav-bar-height: calc(#{$main-logo-height} + (#{$nav-bar-padding} + #{$nav-bar-padding}));
+$nav-bar-height-small: calc(#{$main-logo-height-small} + (#{$nav-bar-padding} + #{$nav-bar-padding}));
 
 // media size
-$media-breakpoint-small: 650px;
-$media-breakpoint-medium: 820px;
+$media-breakpoint-xs: 650px;
+$media-breakpoint-small: 800px;
+$media-breakpoint-medium: 1000px;

@@ -1,3 +1,5 @@
+@import '../styles/variables';
+
 #strijders {
   .title-aside {
     left: -200px;
@@ -27,6 +29,15 @@
         height: 200px;
         border: 1px solid;
         display: block;
+      }
+    }
+  }
+
+  @media only screen and (max-width: $media-breakpoint-xs) {
+    .project-wrapper {
+      .project-thumb {
+        height: auto;
+        width: 100%;
       }
     }
   }

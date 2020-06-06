@@ -38,6 +38,7 @@
       height: $main-logo-height-small;
     }
   }
+
   @media only screen and (max-width: $media-breakpoint-small) {
     .menu-toggle {
       display: block;
@@ -47,13 +48,14 @@
       .nav-items {
         display: block;
         border-top: 1px solid;
+        margin-left: -#{$nav-bar-padding};
       }
     }
 
     .nav-items {
       display: block;
       position: absolute;
-      top: $nav-bar-height-small;
+      top: calc(10px + (#{$nav-bar-padding} + #{$nav-bar-padding}));
       width: 100vw;
       left: 0;
       padding-left: 0;

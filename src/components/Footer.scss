@@ -17,5 +17,14 @@
         text-decoration: none;
       }
     }
+
+    @media only screen and (max-width: $media-breakpoint-xs) {
+      flex-direction: column;
+      text-align: center;
+
+      li {
+        font-size: 1rem;
+      }
+    }
   }
 }

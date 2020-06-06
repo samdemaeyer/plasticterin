@@ -45,3 +45,16 @@ aside {
     }
   }
 }
+
+@media only screen and (max-width: $media-breakpoint-xs) {
+  section {
+    article {
+      flex-wrap: wrap;
+
+      .content {
+        width: 100%;
+        padding-right: 0 !important;
+      }
+    }
+    }
+  }
