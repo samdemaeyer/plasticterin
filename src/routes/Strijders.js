@@ -59,156 +59,156 @@ export default function Strijders() {
         <aside className="title-aside second"><h2>strijders</h2></aside>
         <article className="article">
           <div className="content">
-            <Link to="/" className="project-wrapper">
+            <a href="https://www.schaliegasvrij.be/actie/ineos-will-fall.html" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-8.png" alt="Ineos will fall" />
               Ineos will fall
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://info.meiplasticvrij.be/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-11.png" alt="Mei plastic vrij" />
               Mei plastic vrij
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.extinctionrebellion.be/nl/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-14.png" alt="Flagbag" />
               Flagbag
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.plasticsoupfoundation.org/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-17.png" alt="Plastic soup foundation" />
               Plastic soup foundation
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://enecocleanbeachcup.be/nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-20.png" alt="eneco clean beach" />
               eneco clean beach
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.wryuma.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-23.png" alt="W.r. yuma" />
               W.r. yuma
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.freitag.ch/en" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-26.png" alt="Freitag" />
               Freitag
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://zeroplasticrivers.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-29.png" alt="Zero plastic rivers" />
               Zero plastic rivers
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.fairandsquare.be/shop" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-32.png" alt="fair and square" />
               fair and square
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://dopper.com/nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-35.png" alt="Dopper" />
               Dopper
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://preciousplastic.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-38.png" alt="precious plastic" />
               precious plastic
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.instagram.com/lowimpactmovement/?hl=nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-41.png" alt="Low impact movement" />
               Low impact movement
-            </Link>
+            </a>
           </div>
 
           <div className="content">
-            <Link to="/" className="project-wrapper">
+            <a href="https://alejandroduran.com/statement" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-9.png" alt="Washed up" />
               Washed up
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.stormkop.be/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-12.png" alt="oplossing" />
               Stormkop
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://plasticattack.co.uk/what-is-a-plastic-attack/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-15.png" alt="oplossing" />
               Plastic attack
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://theoceancleanup.com" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-18.png" alt="oplossing" />
               The ocean clean up
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://ecossentials.eu" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-21.png" alt="oplossing" />
               Ecossentials
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.minimalantwerp.be" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-24.png" alt="oplossing" />
               Minimal
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://got-bag.com" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-27.png" alt="oplossing" />
               Got bag
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://saudadesdeportugal.nl/plasticus-maritimus" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-30.png" alt="oplossing" />
               Plastic Maritimus
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="/http://www.maartenvandeneynde.com/?rd_project=183&lang=en" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-33.png" alt="oplossing" />
               Plastic Reef
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="http://www.jenfedrizzi.com/our-sophisticated-denial" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-36.png" alt="oplossing" />
               wasted reality
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://z-w-c.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-39.png" alt="oplossing" />
               Zero waste club
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.stormkop.be/weef-wijven" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-42.png" alt="oplossing" />
               Weefwijven
-            </Link>
+            </a>
           </div>
 
           <div className="content">
-            <Link to="/" className="project-wrapper">
+            <a href="https://readymag.com/u477014252/twominutesofearth" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-10.png" alt="two minutes of earth" />
               two minutes of earth
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.extinctionrebellion.be/nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-13.png" alt="Extinction rebellion" />
               Extinction rebellion
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://plasticavengers.org" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-16.png" alt="Plastic Avengers" />
               Plastic Avengers
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://plasticfischer.com" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-19.png" alt="Plastic fisher" />
               Plastic fisher
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.laurafromthedesert.com" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-22.png" alt="Laura from the dessert" />
               Laura from the dessert
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.fairphone.com/nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-25.png" alt="Fairphone" />
               Fairphone
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.river-cleanup.org/nl/world" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-28.png" alt="River Cleanup" />
               River Cleanup
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.instagram.com/trashworksdesign/?hl=nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-31.png" alt="Trashworksdesign" />
               Trashworksdesign
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://beobottle.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-34.png" alt="Beo bottle" />
               Beo bottle
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="http://www.chrisjordan.com/gallery/rtn/#silent-spring" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-37.png" alt="Running the numbers" />
               Running the numbers
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.instagram.com/thamesplastic" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-40.png" alt="Maria Arceo" />
               Maria Arceo
-            </Link>
-            <Link to="/" className="project-wrapper">
+            </a>
+            <a href="https://www.projectvortex.org/dianna-cohen" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-43.png" alt="Dianna Cohen" />
               Dianna Cohen
-            </Link>
+            </a>
           </div>
         </article>
       </section>
