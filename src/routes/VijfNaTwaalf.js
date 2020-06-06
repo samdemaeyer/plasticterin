@@ -1,8 +1,9 @@
 import React from 'react';
+import './VijfNaTwaalf.scss';
 
 export default function VijfNaTwaalf() {
   return (
-    <section>
+    <section id="vijf-na-twaalf">
       <h2>5 na 12</h2>
       <p>
         Het is 5 na 12. Of eigenlijk, het is al kwart na 12. We hebben genoeg gewacht. Steeds opnieuw wordt het

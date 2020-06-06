@@ -16,10 +16,12 @@
     text-decoration: none;
     display: flex;
     flex-direction: column;
+    font-size: 1.25rem;
     overflow-wrap: anywhere;
 
     .project-thumb {
       height: 200px;
+      margin-bottom: .3rem;
 
       &.missing {
         height: 200px;
