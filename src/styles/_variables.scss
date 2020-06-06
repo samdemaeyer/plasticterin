@@ -1,0 +1,12 @@
+$black: #000;
+$white: #fff;
+
+$main-logo-height: 50px;
+$main-logo-height-small: 30px;
+
+$nav-bar-height: calc(#{$main-logo-height} + 2rem);
+$nav-bar-height-small: calc(#{$main-logo-height-small} + 2rem);
+
+// media size
+$media-breakpoint-small: 650px;
+$media-breakpoint-medium: 820px;

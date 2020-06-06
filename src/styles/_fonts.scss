@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Syne;
+  src: url(/plasticterin/fonts/Syne-Bold.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Syne;
+  src: url(/plasticterin/fonts/Syne-Regular.ttf);
+}
+
+* {
+  font-family: Syne, sans-serif;
+}
