@@ -1,0 +1,30 @@
+#strijders {
+  .title-aside {
+    left: -200px;
+    top: 190px;
+
+    &.second {
+      top: 865px;
+      left: -100px;
+    }
+  }
+
+  .project-wrapper {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: black;
+    text-decoration: none;
+    display: block;
+
+    .project-thumb {
+      max-width: 100%;
+      max-height: 250px;
+
+      &.missing {
+        height: 200px;
+        border: 1px solid;
+        display: block;
+      }
+    }
+  }
+}

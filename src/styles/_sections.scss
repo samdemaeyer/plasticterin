@@ -1,0 +1,43 @@
+section {
+  padding: 2rem 5rem;
+
+  .content {
+    width: 50%;
+    text-align: justify;
+
+    &:not(:last-child) {
+      padding-right: 1rem;
+    }
+  }
+}
+
+article {
+  display: flex;
+
+  p {
+    margin-top: 0;
+
+    .block-space {
+      display: inline-block;
+      width: 60px;
+    }
+  }
+
+  h4 {
+    margin: 0;
+  }
+}
+
+aside {
+  &.title-aside {
+    position: absolute;
+    transform: rotate(-90deg);
+    left: -11rem;
+    top: 10rem;
+
+    h2 {
+      font-size: 3rem;
+      margin: 1rem;
+    }
+  }
+}

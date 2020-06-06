@@ -12,7 +12,9 @@ class NavBar extends React.Component {
     return (
       <header className="sticky sticky-top">
         <nav className={`container container-nav main-nav ${this.state.isOpen ? 'is-open' : ''}`} id="nav-bar">
-          <img src="/plasticterin/header-logo.png" alt="main-logo" className="main-logo" />
+          <Link to="/">
+            <img src="/plasticterin/header-logo.png" alt="main-logo" className="main-logo" />
+          </Link>
           <ul className="nav-items">
             <li>
               <Link to="/" className="nav-item">

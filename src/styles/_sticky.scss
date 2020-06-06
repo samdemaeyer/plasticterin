@@ -3,6 +3,7 @@
   width: calc(100vw - 2rem);
   background: $white;
   padding: 1rem;
+  z-index: 100;
 
   &-top {
     top: 0;

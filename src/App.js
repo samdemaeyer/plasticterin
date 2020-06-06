@@ -3,6 +3,10 @@ import { HashRouter, Switch, Route } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import VijfNaTwaalf from './routes/VijfNaTwaalf';
+import PlasticTerin from './routes/PlasticTerin';
+import Waanzin from './routes/Waanzin';
+import Strijders from './routes/Strijders';
+
 
 function App() {
   return (
@@ -14,13 +18,13 @@ function App() {
               <VijfNaTwaalf />
             </Route>
             <Route exact path="/plastic-terin">
-              plastic-terin
+              <PlasticTerin />
             </Route>
             <Route exact path="/waanzin">
-              waanzin
+              <Waanzin />
             </Route>
             <Route exact path="/strijders">
-              strijders
+              <Strijders />
             </Route>
         </Switch>
       </div>

@@ -1,11 +1,5 @@
 .container {
   margin: 0 auto;
-
-  &-nav {
-    max-width: 1000px;
-  }
-  &-main {
-    max-width: 800px;
-    padding: 0 4rem;
-  }
+  position: relative;
+  max-width: 1000px;
 }
