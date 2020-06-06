@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff5563cb230d9d0f286253aa460aeb7d",
+    "revision": "82fa07a366289bf940f628909fb6859b",
     "url": "/plasticterin/index.html"
   },
   {
-    "revision": "cd28a05ba606779c5179",
-    "url": "/plasticterin/static/css/main.d3525d0e.chunk.css"
+    "revision": "19d464e6f91d71aceb2a",
+    "url": "/plasticterin/static/css/main.bbdba410.chunk.css"
   },
   {
     "revision": "9203de54874f30bbf05d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plasticterin/static/js/2.d64917c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd28a05ba606779c5179",
+    "revision": "19d464e6f91d71aceb2a",
     "url": "/plasticterin/static/js/main.ffc72eae.chunk.js"
   },
   {
