@@ -9,45 +9,45 @@ export default function Strijders() {
         <aside className="title-aside"><h2>eigen projecten</h2></aside>
         <article className="article">
           <div className="content">
-            <Link to="/" className="project-wrapper">
+            <Link to="/projects/workshop" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-1.png" alt="Workshops" />
               Workshops
             </Link>
-            <Link to="/" className="project-wrapper">
+            <Link to="/projects/eccosentials" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-4.png" alt="Eccosentials" />
               Eccosentials
             </Link>
-            <Link to="/" className="project-wrapper">
+            <Link to="/projects/clean-ups" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-7.png" alt="Clean Ups" />
               Clean Ups
             </Link>
           </div>
 
           <div className="content">
-            <Link to="/" className="project-wrapper">
-              <img className="project-thumb" src="/plasticterin/projects/strijders-2.png" alt="Gezakt" />
+            <Link to="/projects/gepakt-en-gezakt" className="project-wrapper">
+              <img className="project-thumb" src="/plasticterin/projects/strijders-2.png" alt="Gepakt en Gezakt" />
               Gepakt en Gezakt
             </Link>
-            <Link to="/" className="project-wrapper">
-              <img className="project-thumb" src="/plasticterin/projects/strijders-5.png" alt="Antwerp" />
+            <Link to="/projects/to-be-antwerp" className="project-wrapper">
+              <img className="project-thumb" src="/plasticterin/projects/strijders-5.png" alt="To Be Antwerp" />
               To Be Antwerp
             </Link>
-            <Link to="/" className="project-wrapper">
-              <img className="project-thumb missing" src="/plasticterin/projects/MISSING" alt="oplossing" />
+            <Link to="/projects/wachten-op-n-oplossing" className="project-wrapper">
+              <img className="project-thumb missing" src="/plasticterin/projects/MISSING" alt="wachten op ‘n oplossing" />
               wachten op ‘n oplossing
             </Link>
           </div>
 
           <div className="content">
-            <Link to="/" className="project-wrapper">
+            <Link to="/projects/trashwerp" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-3.png" alt="Trashwerp" />
               Trashwerp
             </Link>
-            <Link to="/" className="project-wrapper">
-              <img className="project-thumb" src="/plasticterin/projects/strijders-6.png" alt="vrij" />
+            <Link to="/projects/mei-plastic-vrij" className="project-wrapper">
+              <img className="project-thumb" src="/plasticterin/projects/strijders-6.png" alt="Mei plastic vrij" />
               Mei plastic vrij
             </Link>
-            <Link to="/" className="project-wrapper">
+            <Link to="/projects/ik-hoop-dat-ge-goed-slaapt-vannacht" className="project-wrapper">
               <img className="project-thumb missing" src="/plasticterin/projects/MISSING" alt="ikhoopdatgegoedslaaptvannacht" />
               ikhoopdatgegoedslaaptvannacht
             </Link>
