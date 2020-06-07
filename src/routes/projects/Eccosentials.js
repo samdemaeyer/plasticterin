@@ -17,7 +17,23 @@ export default function Eccosentials() {
             collages niet ontbreken en ditmaal doken we in onze eigen afvalzakken.
           </p>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/eccosentials/thumb-1.png"
+            alt="Project Eccosentials"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/eccosentials/thumb-2.png"
+            alt="Project Eccosentials"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/eccosentials/thumb-3.png"
+            alt="Project Eccosentials"
+          />
+        </div>
       </article>
     </section>
   );

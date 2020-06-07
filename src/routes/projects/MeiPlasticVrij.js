@@ -19,7 +19,23 @@ export default function MeiPlasticVrij() {
             winkel waar je ze kuntvinden.
           </p>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/mei-plastic-vrij/thumb-1.png"
+            alt="Project Mei plastic vrij"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/mei-plastic-vrij/thumb-2.png"
+            alt="Project Mei plastic vrij"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/mei-plastic-vrij/thumb-3.png"
+            alt="Project Mei plastic vrij"
+          />
+        </div>
       </article>
     </section>
   );

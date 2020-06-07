@@ -16,8 +16,19 @@ export default function ToBeAntwerp() {
             dan aanspoelt op de oevers. Er is geen normale bodemmeer aanwezig op de oevers, maar een samenraapsel van
             plastic, zand en ander afval.
           </p>
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/to-be-antwerp/thumb-2.png"
+            alt="Project To be Antwerp"
+          />
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/to-be-antwerp/thumb-1.png"
+            alt="Project To be Antwerp"
+          />
+        </div>
       </article>
     </section>
   );

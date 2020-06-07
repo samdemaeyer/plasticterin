@@ -1,0 +1,10 @@
+.project-thumb {
+  width: 100%;
+  margin-bottom: 1rem;
+
+  &.missing {
+    height: 400px;
+    background: black;
+    display: block;
+  }
+}

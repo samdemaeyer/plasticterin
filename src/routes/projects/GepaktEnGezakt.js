@@ -15,8 +15,22 @@ export default function GepaktEnGezakt() {
             gerecycleerde zakken, tassen en poncho’s van kan maken. Omdat we geen overaanbod willen creëren gaan we dit
             lanceren met een crowdfundingproject zodat we weten hoeveel we er moeten laten maken.
           </p>
+          <p>
+            Klik <a href="#">hier</a> voor gepakt en gezakt
+          </p>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/gepakt-en-gezakt/thumb-1.png"
+            alt="Project gepakt en gezakt"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/gepakt-en-gezakt/thumb-1.png"
+            alt="Project gepakt en gezakt"
+          />
+        </div>
       </article>
     </section>
   );

@@ -17,7 +17,18 @@ export default function WachtenOpNOplossing() {
             Corona crisis is dit het ideale moment. We hebben tijd voor verandering.
           </p>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img
+            className="project-thumb missing"
+            src="/plasticterin/projects/wachten-op-n-oplossing/missing"
+            alt="Project wachten op ‘n oplossing"
+          />
+          <img
+            className="project-thumb missing"
+            src="/plasticterin/projects/wachten-op-n-oplossing/missing"
+            alt="Project wachten op ‘n oplossing"
+          />
+        </div>
       </article>
     </section>
   );

@@ -17,7 +17,16 @@ export default function IkHoopDatGeGoedSlaaptVannacht() {
           </p>
         </div>
         <div className="content">
-
+          <img
+            className="project-thumb missing"
+            src="/plasticterin/projects/ik-hoop-dat-ge-goed-slaapt-vannacht/missing"
+            alt="Project ik hoop dat ge goed slaapt vannacht"
+          />
+          <img
+            className="project-thumb missing"
+            src="/plasticterin/projects/ik-hoop-dat-ge-goed-slaapt-vannacht/missing"
+            alt="Project ik hoop dat ge goed slaapt vannacht"
+          />
         </div>
       </article>
     </section>

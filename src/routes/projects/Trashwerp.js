@@ -17,8 +17,19 @@ export default function Trashwerp() {
             beelden gemaakt van gevonden plastic afval. Via collages willen ze laten zien dat er ongelofelijk veel
             plastic afval in de Schelde beland en zo ook op de oevers.
           </p>
+          <p>
+            Klik{' '}
+            <a href="https://trashwerp.com/" target="_blank" rel="noopener noreferrer">
+              hier
+            </a>{' '}
+            voor Trashwerp
+          </p>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          <img className="project-thumb" src="/plasticterin/projects/trashwerp/thumb-1.png" alt="Project Trashwerp" />
+          <img className="project-thumb" src="/plasticterin/projects/trashwerp/thumb-2.png" alt="Project Trashwerp" />
+          <img className="project-thumb" src="/plasticterin/projects/trashwerp/thumb-3.png" alt="Project Trashwerp" />
+        </div>
       </article>
     </section>
   );

@@ -25,7 +25,16 @@ export default function Workshop() {
           </p>
         </div>
         <div className="content">
-
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/workshop/thumb-1.png"
+            alt="Project workshop example"
+          />
+          <img
+            className="project-thumb"
+            src="/plasticterin/projects/workshop/thumb-2.png"
+            alt="Project workshop example"
+          />
         </div>
       </article>
     </section>
