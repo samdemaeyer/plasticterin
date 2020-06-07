@@ -101,7 +101,7 @@ export default function Strijders() {
             </a>
             <a href="https://preciousplastic.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-38.png" alt="precious plastic" />
-              precious plastic
+              Precious Plastic
             </a>
             <a href="https://www.instagram.com/lowimpactmovement/?hl=nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-41.png" alt="Low impact movement" />
