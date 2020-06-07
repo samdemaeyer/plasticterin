@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="sticky sticky-bottom" id="footer">
       <nav className="container container-nav">
         <ul className="nav-items">
-          <li><a href="mailto:info@plasticterin.com">info@plasticterin.com</a></li>
+          <li><a href="mailto:info@plasticterin.com">info<span class="at">@</span>plasticterin.com</a></li>
           <li>insta: <a href="#">plasticterin</a></li>
           <li>fb: <a href="#">plasticterin</a></li>
         </ul>

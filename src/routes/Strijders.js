@@ -15,7 +15,7 @@ export default function Strijders() {
             </Link>
             <Link to="/projects/eccosentials" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-4.png" alt="Eccosentials" />
-              Eccosentials
+              Ecosentials
             </Link>
             <Link to="/projects/clean-ups" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-7.png" alt="Clean Ups" />
@@ -34,7 +34,7 @@ export default function Strijders() {
             </Link>
             <Link to="/projects/wachten-op-n-oplossing" className="project-wrapper">
               <img className="project-thumb missing" src="/plasticterin/projects/MISSING" alt="wachten op ‘n oplossing" />
-              wachten op ‘n oplossing
+              Wachten op ‘n oplossing
             </Link>
           </div>
 
@@ -49,7 +49,7 @@ export default function Strijders() {
             </Link>
             <Link to="/projects/ik-hoop-dat-ge-goed-slaapt-vannacht" className="project-wrapper">
               <img className="project-thumb missing" src="/plasticterin/projects/MISSING" alt="ikhoopdatgegoedslaaptvannacht" />
-              ikhoopdatgegoedslaaptvannacht
+              Ikhoopdatgegoedslaaptvannacht
             </Link>
           </div>
         </article>
@@ -67,7 +67,7 @@ export default function Strijders() {
               <img className="project-thumb" src="/plasticterin/projects/strijders-11.png" alt="Mei plastic vrij" />
               Mei plastic vrij
             </a>
-            <a href="https://www.extinctionrebellion.be/nl/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
+            <a href="http://flagbag.be/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-14.png" alt="Flagbag" />
               Flagbag
             </a>
@@ -77,7 +77,7 @@ export default function Strijders() {
             </a>
             <a href="https://enecocleanbeachcup.be/nl" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-20.png" alt="eneco clean beach" />
-              eneco clean beach
+              Eneco clean beach
             </a>
             <a href="https://www.wryuma.com/" target="_blank" rel="noopener noreferrer" className="project-wrapper">
               <img className="project-thumb" src="/plasticterin/projects/strijders-23.png" alt="W.r. yuma" />
