@@ -33,7 +33,7 @@ export default function VijfNaTwaalf() {
             <span className="block-space"></span>
             Plastic(terin) komt van “Stikt er in”. Hiermee bedoelen we dat de plasticproblematiek enorm groot
             is en we het niet mogen negeren. Daarom kozen we ervoor om een samentrekking te nemen van het woord
-            ‘plastic’ en ‘erin stikken’. Zo kwamen we bij Pla-stic-ter-in.
+            ‘plastic’ en ‘erin stikken’. Zo kwamen we bij Pla-stict-er-in.
           </p>
         </div>
         <div className="content">

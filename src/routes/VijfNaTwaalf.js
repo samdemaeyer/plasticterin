@@ -8,8 +8,6 @@ export default function VijfNaTwaalf() {
       <p>
         Het is 5 na 12. Of eigenlijk, het is al kwart na 12. We hebben genoeg gewacht. Steeds opnieuw wordt het
         plastic probleem aangekaart en steeds opnieuw gebeurt er te weinig. Plastic afval
-        </p>
-      <p>
         is een probleem. Hoe we het ook draaien of keren: het ooit zo geweldige plastic heeft grootse
         gevolgen voor planeet aarde.
       </p>
