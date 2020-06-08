@@ -237,10 +237,7 @@ export default function Waanzin() {
                   world’s oceans
                 </div>
               </li>
-            </ul>
-          </div>
-          <div className="content">
-            <ul className="expandable-list">
+
               <li className="list-item">
                 <a href="#" onClick={(e) => toggleExpand(e, 'expandable-16')} className="expandable-link">
                   The Plastic Era: Plastic defining a new human epoch
@@ -303,6 +300,8 @@ export default function Waanzin() {
                 </div>
               </li>
             </ul>
+          </div>
+          <div className="content">
             <h4>Plastic bags</h4>
             <ul className="expandable-list">
               <li className="list-item">
