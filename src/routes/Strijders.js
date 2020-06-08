@@ -10,7 +10,7 @@ export default function Strijders() {
         <article className="article">
           <div className="content">
             <Link to="/projects/workshop" className="project-wrapper">
-              <img className="project-thumb" src="/plasticterin/projects/strijders-1.png" alt="Workshops" />
+              <img className="project-thumb" src="/plasticterin/projects/strijders-2.png" alt="Workshops" />
               Workshops
             </Link>
             <Link to="/projects/eccosentials" className="project-wrapper">
@@ -25,7 +25,7 @@ export default function Strijders() {
 
           <div className="content">
             <Link to="/projects/gepakt-en-gezakt" className="project-wrapper">
-              <img className="project-thumb" src="/plasticterin/projects/strijders-2.png" alt="Gepakt en Gezakt" />
+              <img className="project-thumb" src="/plasticterin/projects/strijders-1.png" alt="Gepakt en Gezakt" />
               Gepakt en Gezakt
             </Link>
             <Link to="/projects/to-be-antwerp" className="project-wrapper">
