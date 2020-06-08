@@ -18,6 +18,7 @@ export default function VijfNaTwaalf() {
             opgeven maar doorzetten. Het zou gek zijn om nu op te geven toch?
           </p>
           <h4>Wie?</h4>
+          <br></br>
           <p>
             <span className="block-space"></span>
             Wij zijn Carla-Reina en Dorina van ‘Plastic(erin)’, twee studenten van Sint Lucas Antwerpen.
@@ -29,6 +30,7 @@ export default function VijfNaTwaalf() {
             zoeken en daar hebben we jou ook voor nodig!
           </p>
           <h4>Betekenis?</h4>
+          <br></br>
           <p>
             <span className="block-space"></span>
             Plastic(terin) komt van “Stikt er in”. Hiermee bedoelen we dat de plasticproblematiek enorm groot
@@ -38,6 +40,7 @@ export default function VijfNaTwaalf() {
         </div>
         <div className="content">
           <h4>Wat?</h4>
+          <br></br>
           <p>
             <span className="block-space"></span>
             Via deze campagne proberen we consumenten te  sensibiliseren overde huidige klimaatproblematiek en
