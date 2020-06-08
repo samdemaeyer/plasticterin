@@ -56,6 +56,7 @@
 
     .list-item {
       padding: .5rem;
+      color: #374798;
     }
 
     .expandable-link {
@@ -71,7 +72,6 @@
 
       &.show {
         display: initial;
-        margin-left: 3px;
       }
     }
   }
