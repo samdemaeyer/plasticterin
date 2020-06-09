@@ -53,11 +53,12 @@
     padding-left: 1rem;
     text-align: left;
     margin: 0 0 1rem 0;
+    color: #374798;
 
     .list-item {
       padding: .5rem;
     }
-
+    
     .expandable-link {
       color: #374798;
       font-weight: bold;
@@ -65,9 +66,10 @@
       cursor: pointer;
       display: block;
     }
-
+    
     .expandable-content {
       display: none;
+      color: black;
 
       &.show {
         display: initial;
