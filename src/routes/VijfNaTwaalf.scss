@@ -5,5 +5,15 @@
 
   p {
     font-size: 1.25rem;
+    margin-top: 0;
+
+    .block-space {
+      display: inline-block;
+      width: 60px;
+    }
+  }
+
+  .title {
+    margin-bottom: 1.5rem;
   }
 }

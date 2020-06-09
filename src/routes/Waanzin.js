@@ -12,64 +12,32 @@ export default function Waanzin() {
     <div id="waanzin">
       <div className="facts">
         <div className="fact">
-          <h3>4,994,936.8</h3>
-          <h5>Ton plastic afval gedumpt in oceanen</h5>
-          <p>In de wereld</p>
-          <div className="link-wrapper">
-            <a
-              href="https://www.theworldcounts.com/challenges/planet-earth/waste/global-waste-problem"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="link"
-            >
-              De wereld telt
-            </a>
-          </div>
+          <iframe
+            title="Tons of waste dumped"
+            src="https://www.theworldcounts.com/embed/challenges/63?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14"
+            style={{ border: 'none' }}
+          ></iframe>
         </div>
         <div className="fact">
-          <h3>873,938,521</h3>
-          <h5>Tons of wast dumped</h5>
-          <p>Globally, this year</p>
-          <div className="link-wrapper">
-            <a
-              href="https://www.theworldcounts.com/challenges/planet-earth/waste/plastic-bags-used-per-year"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="link"
-            >
-              The World Counts
-            </a>
-          </div>
+          <iframe
+            title="Number of plastic bags produced"
+            src="https://www.theworldcounts.com/embed/challenges/105?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14"
+            style={{ border: 'none' }}
+          ></iframe>
         </div>
         <div className="fact">
-          <h3>1,985,743.772</h3>
-          <h5>Greate Pacific Garbage Patch</h5>
-          <p>Size in square kilometers, right now</p>
-          <div className="link-wrapper">
-            <a
-              href="https://www.theworldcounts.com/challenges/planet-earth/waste/great-pacific-garbage-patch-size"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="link"
-            >
-              The World Counts
-            </a>
-          </div>
+          <iframe
+            title="Great Pacific Garbage Patch"
+            src="https://www.theworldcounts.com/embed/challenges/6?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14"
+            style={{ border: 'none' }}
+          ></iframe>
         </div>
         <div className="fact">
-          <h3>2,061,095,743,256</h3>
-          <h5>Number of plastic bags produced</h5>
-          <p>Worldwide, this year</p>
-          <div className="link-wrapper">
-            <a
-              href="https://www.theworldcounts.com/challenges/planet-earth/oceans/plastic-in-the-ocean"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="link"
-            >
-              The World Counts
-            </a>
-          </div>
+          <iframe
+            title="Tons of plastic waste dumped in oceans"
+            src="https://www.theworldcounts.com/embed/challenges/109?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14"
+            style={{ border: 'none' }}
+          ></iframe>
         </div>
       </div>
       <section>
@@ -237,10 +205,7 @@ export default function Waanzin() {
                   world’s oceans
                 </div>
               </li>
-            </ul>
-          </div>
-          <div className="content">
-            <ul className="expandable-list">
+
               <li className="list-item">
                 <a href="#" onClick={(e) => toggleExpand(e, 'expandable-16')} className="expandable-link">
                   The Plastic Era: Plastic defining a new human epoch
@@ -303,6 +268,8 @@ export default function Waanzin() {
                 </div>
               </li>
             </ul>
+          </div>
+          <div className="content">
             <h4>Plastic bags</h4>
             <ul className="expandable-list">
               <li className="list-item">
