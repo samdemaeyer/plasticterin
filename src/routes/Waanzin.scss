@@ -1,14 +1,11 @@
-#waanzin {
-  .title-aside {
-    left: -90px;
-    top: 245px;
-  }
+@import '../styles/variables';
 
+#waanzin {
   .resource-link {
-    position: absolute;
+    position: fixed;
     transform: rotate(90deg);
-    right: -85px;
-    bottom: 115px;
+    right: -4rem;
+    bottom: 200px;
 
     .link {
       color: inherit;
@@ -18,14 +15,15 @@
 
   .facts {
     display: flex;
-    margin: 4rem 0;
+    margin: 2rem 0;
+    flex-wrap: wrap;
 
     .fact {
       flex: 1;
       text-align: center;
-      padding: 0 .5rem;
       display: flex;
       flex-direction: column;
+      max-width: 25%;
 
       h3, h5, p, a {
         margin: 0;
@@ -75,5 +73,15 @@
         display: initial;
       }
     }
+  }
+
+  @media only screen and (max-width: $media-breakpoint-xs) {
+    .facts {
+      margin: 2rem 0 0;
+
+      .fact {
+        max-width: initial
+      }
+    };
   }
 }
