@@ -8,11 +8,7 @@ export default function Strijders() {
       <section>
         <img className="title-img"  src="/plasticterin/titles/eigen-projecten.png" alt="eigen projecten title" />
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate odio id urna luctus, in
-          consectetur ante mollis. Phasellus sodales elit sed diam feugiat, a feugiat turpis bibendum. Phasellus leo
-          nulla, molestie non nulla quis, venenatis ullamcorper ligula. Cras pulvinar urna non laoreet mollis. Fusce et
-          nisi id sapien consequat sagittis at sit amet libero. Phasellus quis magna ultricies, rhoncus diam at,
-          ullamcorper augue. Sed pulvinar eleifend nunc, eget interdum nibh rutrum eu.
+        Onder eigen projecten zie je telkens acties waarin we zelf zijn betrokken geweest of waar we leuke samenwerkingen mee achter de rug hebben.
         </p>
         <article className="article">
           <div className="content">
@@ -73,11 +69,8 @@ export default function Strijders() {
       <section>
         <img className="title-img"  src="/plasticterin/titles/strijders.png" alt="strijders title" />
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate odio id urna luctus, in
-          consectetur ante mollis. Phasellus sodales elit sed diam feugiat, a feugiat turpis bibendum. Phasellus leo
-          nulla, molestie non nulla quis, venenatis ullamcorper ligula. Cras pulvinar urna non laoreet mollis. Fusce et
-          nisi id sapien consequat sagittis at sit amet libero. Phasellus quis magna ultricies, rhoncus diam at,
-          ullamcorper augue. Sed pulvinar eleifend nunc, eget interdum nibh rutrum eu.
+        Onder het menu ’strijders' kan je meerdere organisaties vinden die actief mee op zoek gaan naar verschillende creatieve oplossingen voor de plastic strijd, 
+        we hebben voor deze organisaties gekozen omdat we ook achter hun organisatie staan. De lijst wordt telkens aangevuld van zodra we nieuwe organisaties leren kennen.
         </p>
         <article className="article">
           <div className="content">
