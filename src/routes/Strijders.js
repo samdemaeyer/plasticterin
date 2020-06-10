@@ -6,9 +6,7 @@ export default function Strijders() {
   return (
     <div id="strijders">
       <section>
-        <aside className="title-aside">
-          <h2>eigen projecten</h2>
-        </aside>
+        <img className="title-img"  src="/plasticterin/titles/eigen-projecten.png" alt="eigen projecten title" />
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate odio id urna luctus, in
           consectetur ante mollis. Phasellus sodales elit sed diam feugiat, a feugiat turpis bibendum. Phasellus leo
@@ -73,9 +71,7 @@ export default function Strijders() {
       </section>
 
       <section>
-        <aside className="title-aside second">
-          <h2>strijders</h2>
-        </aside>
+        <img className="title-img"  src="/plasticterin/titles/strijders.png" alt="strijders title" />
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vulputate odio id urna luctus, in
           consectetur ante mollis. Phasellus sodales elit sed diam feugiat, a feugiat turpis bibendum. Phasellus leo

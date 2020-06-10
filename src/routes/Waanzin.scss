@@ -1,13 +1,8 @@
 #waanzin {
-  .title-aside {
-    left: -90px;
-    top: 245px;
-  }
-
   .resource-link {
     position: absolute;
     transform: rotate(90deg);
-    right: -85px;
+    right: -75px;
     bottom: 115px;
 
     .link {
@@ -18,7 +13,7 @@
 
   .facts {
     display: flex;
-    margin: 4rem 0 .5rem 0;
+    margin: 2rem 0;
 
     .fact {
       flex: 1;
@@ -58,7 +53,7 @@
     .list-item {
       padding: .5rem;
     }
-    
+
     .expandable-link {
       color: #374798;
       font-weight: bold;
@@ -66,7 +61,7 @@
       cursor: pointer;
       display: block;
     }
-    
+
     .expandable-content {
       display: none;
       color: black;
