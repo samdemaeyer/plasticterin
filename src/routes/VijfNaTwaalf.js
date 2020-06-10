@@ -4,7 +4,7 @@ import './VijfNaTwaalf.scss';
 export default function VijfNaTwaalf() {
   return (
     <section id="vijf-na-twaalf">
-      <video width="100%" autoPlay loop className="video">
+      <video width="100%" controls autoPlay loop className="video">
         <source src="/plasticterin/video/vijf-na-twaalf.mp4" type="video/mp4" />
       </video>
       <h2 className="title">5 na 12</h2>
