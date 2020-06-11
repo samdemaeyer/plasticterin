@@ -41,7 +41,7 @@ export default function Waanzin() {
         </div>
       </div>
       <section>
-        <img className="title-img"  src="/plasticterin/titles/waanzin.png" alt="waanzin title" />
+        <img className="title-img"  src="/plasticterin/titles/waanzin.svg" alt="waanzin title" />
         <article>
           <div className="content">
             <h4>Plastic</h4>

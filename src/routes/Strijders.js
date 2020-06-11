@@ -6,7 +6,7 @@ export default function Strijders() {
   return (
     <div id="strijders">
       <section>
-        <img className="title-img"  src="/plasticterin/titles/eigen-projecten.png" alt="eigen projecten title" />
+        <img className="title-img"  src="/plasticterin/titles/eigen-projecten.svg" alt="eigen projecten title" />
         <p>
         Onder eigen projecten zie je telkens acties waarin we zelf zijn betrokken geweest of waar we leuke samenwerkingen mee achter de rug hebben.
         </p>
@@ -67,7 +67,7 @@ export default function Strijders() {
       </section>
 
       <section>
-        <img className="title-img"  src="/plasticterin/titles/strijders.png" alt="strijders title" />
+        <img className="title-img"  src="/plasticterin/titles/strijders.svg" alt="strijders title" />
         <p>
         Onder het menu ’strijders' kan je meerdere organisaties vinden die actief mee op zoek gaan naar verschillende creatieve oplossingen voor de plastic strijd, 
         we hebben voor deze organisaties gekozen omdat we ook achter hun organisatie staan. De lijst wordt telkens aangevuld van zodra we nieuwe organisaties leren kennen.
