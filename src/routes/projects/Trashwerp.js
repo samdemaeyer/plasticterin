@@ -7,7 +7,7 @@ export default function Trashwerp() {
         <div className="content">
           <h4 className="project-title">‘Trashwerp’</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             ‘Trashwerp’, een initiatief van vijf studenten grafisch ontwerp van Sint Lucas Antwerpen, startte tijdens
             een themaweek georganiseerd door de school. De studenten werden uitgenodigd op ‘Stormkop’ en werden daar
             geconfronteerd met de situatie aan de Scheldebocht. Overal was plastic afval te vinden. Geen zand meer, maar

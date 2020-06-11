@@ -7,7 +7,7 @@ export default function CleanUps() {
         <div className="content">
           <h4 className="project-title">Clean ups</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             ‘Jutten is niet voor trutten en eene pot nat’ zijn verschillende clean ups waarbij met z’n allen de Schelde
             oevers op een onvergetelijke manier proper worden gemaakt. Hiervoor worden jong en oud uitgenodigd
             doorCarla-Reina en Dorina samen met eenDj, een hapje en een drankje. Achteraf worden de vondsten

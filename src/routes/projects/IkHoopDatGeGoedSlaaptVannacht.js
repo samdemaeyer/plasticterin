@@ -7,7 +7,7 @@ export default function IkHoopDatGeGoedSlaaptVannacht() {
         <div className="content">
           <h4 className="project-title">ikhoopdatgegoedslaaptvannacht</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             Met het project ‘ikhoopdatgegoedslaaptvannacht’ sturen we kussens op naar onze geliefde politici en naar de
             producenten van plastic. Ze zijn gevuld en ook gemaakt met plastic afval. Dit omdat er voor het afval en
             daar aan gekoppelde klimaatproblematiek reeds verschillende oplossingen voor het grijpen liggen, maar welke

@@ -7,7 +7,7 @@ export default function ToBeAntwerp() {
         <div className="content">
           <h4 className="project-title">To be Antwerp</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             Dit is een evenement waarbij jonge afgestudeerde kunstenaars in contact kunnen komen met het brede publiek
             en dit op bijzondere locaties doorheen Antwerpen. We hebben tijdens dit evenement onze koker gevuld met
             plastic uit de Scheldebocht nog eens tentoon mogen stellen. Als je zo’n 220 kokers op elkaar zou plaatsen,

@@ -7,13 +7,13 @@ export default function Workshop() {
         <div className="content">
           <h4 className="project-title">Workshop</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             We hebben dit jaar niet stilgezeten en hebben aan verschillende jongeren (we kunnen niet vroeg genoeg
             beginnen) workshops gegeven op scholen, academies etc. Onze workshop bestond uit vier delen (clean up,
             papier maken, afdrukken maken met plastic en collages maken).
           </p>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             We hebben de studenten meegenomen naar onze Scheldebocht in Antwerpen om plastic afval te zoeken. Tijdens
             het rapen, verzamelden we zo verschillende materialen waarmee we later aan de slag konden gaan in de
             daaropvolgende tweedaagse workshop. We vroegen aan de studenten ook om materialen mee te brengen uit hun
