@@ -1,6 +1,10 @@
 @import '../styles/variables';
 
 #strijders {
+  .title-img {
+    top: -13px;
+  }
+
   .project-wrapper {
     text-align: center;
     margin-bottom: 1rem;

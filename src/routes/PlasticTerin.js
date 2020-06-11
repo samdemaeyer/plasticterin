@@ -4,7 +4,7 @@ import './PlasticTerin.scss';
 export default function VijfNaTwaalf() {
   return (
     <section id="plastic-terin">
-      <img className="title-img" src="/plasticterin/titles/plasticterin.png" alt="plasticterin title" />
+      <img className="title-img" src="/plasticterin/titles/plasticterin.svg" alt="plasticterin title" />
       <article className="article">
         <div className="content">
           <p>
