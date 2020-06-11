@@ -12,27 +12,27 @@ class NavBar extends React.Component {
     return (
       <header className="sticky sticky-top">
         <nav className={`container container-nav main-nav ${this.state.isOpen ? 'is-open' : ''}`} id="nav-bar">
-          <Link to="/">
+          <Link to="/" onClick={() => this.setState({ isOpen: false })}>
             <img src="/plasticterin/header-logo.png" alt="main-logo" className="main-logo" />
           </Link>
           <ul className="nav-items">
             <li>
-              <Link to="/" className="nav-item">
+              <Link to="/" className="nav-item" onClick={() => this.setState({ isOpen: false })}>
                 5 na 12
               </Link>
             </li>
             <li>
-              <Link to="/plastic-terin" className="nav-item">
+              <Link to="/plastic-terin" className="nav-item" onClick={() => this.setState({ isOpen: false })}>
               plastic(terin)
               </Link>
             </li>
             <li>
-              <Link to="/waanzin" className="nav-item">
+              <Link to="/waanzin" className="nav-item" onClick={() => this.setState({ isOpen: false })}>
                 waanzin
               </Link>
             </li>
             <li>
-              <Link to="/strijders" className="nav-item">
+              <Link to="/strijders" className="nav-item" onClick={() => this.setState({ isOpen: false })}>
                 strijders
               </Link>
             </li>
