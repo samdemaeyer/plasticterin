@@ -7,7 +7,7 @@ export default function VijfNaTwaalf() {
       <img className="title-img" src="/plasticterin/titles/plasticterin.svg" alt="plasticterin title" />
       <article className="article">
         <div className="content">
-          <p>
+          <p className="text-sm-left">
             <span className="block-space"></span>
             Het is 5 na 12, wat zeggen we? Zelfs kwart na 12. WE NEED ACTION.
             Gedaan met naar elkaar wijzen, gedaan met wachten. Het moet nu
@@ -22,7 +22,7 @@ export default function VijfNaTwaalf() {
             zou gek zijn om nu op te geven, toch?
           </p>
           <h4 className="title">Wie?</h4>
-          <p>
+          <p className="text-sm-left">
             <span className="block-space"></span>
             Wij zijn Carla-Reina en Dorina van ‘Plastic(terin)’, twee studenten
             van Sint Lucas Antwerpen. We hebben onze buik vol van plastic en
@@ -36,7 +36,7 @@ export default function VijfNaTwaalf() {
             hebben we jou ook voor nodig!
           </p>
           <h4 className="title">Betekenis?</h4>
-          <p>
+          <p className="text-sm-left">
             <span className="block-space"></span>
             Plastic(terin) komt van “Stikt er in”. Hiermee bedoelen we dat de
             plastic problematiek enorm groot is en we het niet mogen negeren.
@@ -46,7 +46,7 @@ export default function VijfNaTwaalf() {
         </div>
         <div className="content">
           <h4 className="title">Wat?</h4>
-          <p>
+          <p className="text-sm-left">
             <span className="block-space"></span>
             Via deze campagne proberen we consumenten te sensibiliseren over de
             huidige klimaatproblematiek en duidelijk te maken dat het 5 na 12 is
@@ -59,7 +59,7 @@ export default function VijfNaTwaalf() {
             zal zien, het is echt niet moeilijk en het werkt verslavend! Je wil
             vanzelf meer en beter je best doen voor onze aarde.
           </p>
-          <p>
+          <p className="text-sm-left">
             <span className="block-space"></span>
             Wij doen dit vooral omdat we merken dat de stap naar plasticvrij
             leven groot is en mensen vaak niet weten waar te beginnen. Omdat we

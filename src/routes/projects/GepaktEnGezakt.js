@@ -7,7 +7,7 @@ export default function GepaktEnGezakt() {
         <div className="content">
           <h4 className="project-title">gepakt en gezakt</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             Dit is een campagne waarbij we aan de slag gaan met al de achtergelaten tentjes vanop de festivalweides. Elk
             jaar zijn er tientallen festivals waar duizenden mensen naartoe gaan, maar waar ook gigantisch veel afval
             achterblijft. We wilden dit probleem aanpakken en daarom besloten we ons te focussen op de achtergebleven
@@ -16,7 +16,7 @@ export default function GepaktEnGezakt() {
             lanceren met een crowdfundingproject zodat we weten hoeveel we er moeten laten maken.
           </p>
           <p>
-            Klik <a href="#">hier</a> voor gepakt en gezakt
+            Klik <a href="https://samdemaeyer.github.io/gepakt-en-gezakt/" target="_blank">hier</a> voor gepakt en gezakt
           </p>
         </div>
         <div className="content">

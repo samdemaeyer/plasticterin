@@ -7,7 +7,7 @@ export default function Eccosentials() {
         <div className="content">
           <h4 className="project-title">Eccosentials</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             Moenia is een student ondernemer die graag haar eigen plasticvrije webshop, Ecossentials, wou realiseren aan
             de hand van een crowdfunding campagne. We hebben samen met haar op de KDG campus op de Groenplaats een
             installatie gemaakt waarbij we in onze eigen afvalbak gingen kijken. Mounia biedt voor dit plastic afval een

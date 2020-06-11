@@ -7,7 +7,7 @@ export default function WachtenOpNOplossing() {
         <div className="content">
           <h4 className="project-title">wachten op ‘n oplossing</h4>
           <p>
-            <span className="block-space"></span>
+            <span className="block-space text-sm-left"></span>
             Wachten op een oplossing. Eigenlijk doen we dat allemaal samen, want er verandert te weinig. Dat is
             jammervoor alle mensen die wél veel moeite doen om veranderingen te realiseren. Daarom bedachten we deze
             actie, waarbij we samen wachten op een oplossing op een grote zitzak. De grote zitzak kan op verschillende
