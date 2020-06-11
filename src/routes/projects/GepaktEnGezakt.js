@@ -16,7 +16,11 @@ export default function GepaktEnGezakt() {
             lanceren met een crowdfundingproject zodat we weten hoeveel we er moeten laten maken.
           </p>
           <p>
-            Klik <a href="https://samdemaeyer.github.io/gepakt-en-gezakt/" target="_blank">hier</a> voor gepakt en gezakt
+            Klik
+            <a href="https://samdemaeyer.github.io/gepakt-en-gezakt/" target="_blank" rel="noopener noreferrer">
+              hier
+            </a>
+            voor gepakt en gezakt
           </p>
         </div>
         <div className="content">
