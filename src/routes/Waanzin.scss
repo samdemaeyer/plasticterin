@@ -47,8 +47,9 @@
     }
   }
 
-  .facts-steve{
+  .facts-steve {
     padding: 0;
+
     .list-item-steve {
       padding: 1rem;
     }
@@ -65,7 +66,7 @@
     color: #374798;
 
     .list-item {
-      padding: .5rem;
+      padding: 0.5rem;
     }
 
     .expandable-link {
@@ -91,21 +92,21 @@
       margin: 2rem 0 0;
 
       .fact {
-        max-width: initial
+        max-width: initial;
       }
     }
-    
-    .facts-steve{     
+
+    .facts-steve {
       padding: 0;
+
       .list-item-steve {
-        padding: .5rem;
+        padding: 0.5rem;
       }
     }
-    
-    .youtube-sm{
-      height: auto !important;
-      width: auto !important;
-    };
-    
+
+    .youtube-sm {
+      width: 100%;
+      height: 100%;
+    }
   }
 }

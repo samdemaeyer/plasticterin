@@ -41,7 +41,7 @@ export default function Waanzin() {
         </div>
       </div>
       <section>
-        <img className="title-img"  src="/plasticterin/titles/waanzin.svg" alt="waanzin title" />
+        <img className="title-img" src="/plasticterin/titles/waanzin.svg" alt="waanzin title" />
         <article>
           <div className="content">
             <h4>Plastic</h4>
@@ -393,63 +393,64 @@ export default function Waanzin() {
         </article>
 
         <div>
-          <h4>
-            In z’n eentje haalt België nog altijd de top tien van exporterende
-            landen.
-          </h4>
-          <iframe className="youtube-sm"
+          <h4>In z’n eentje haalt België nog altijd de top tien van exporterende landen.</h4>
+          <iframe
+            className="youtube-sm"
+            title="05-11-2019 - middagvergadering (LEE)"
             width="560"
             height="315"
             src="https://www.youtube.com/embed/qy2EtgS8iao?start=2262"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
+            allowFullScreen
+          />
           <div>
             <small>Steve Vandenberghe (sp.a)</small>
           </div>
 
           <ul className="facts-steve">
             <li className="list-item-steve">
-              De productie van plastic is sinds 1950 van 2 miljoen ton naar 380
-              miljoen ton vandaag geëvolueerd. De voorspellingen zeggen dat er
-              een verdubbeling zal zijn tegen 2035, en een verviervoudiging
-              tegen 2050 wereldwijd
+              De productie van plastic is sinds 1950 van 2 miljoen ton naar 380 miljoen ton vandaag geëvolueerd. De
+              voorspellingen zeggen dat er een verdubbeling zal zijn tegen 2035, en een verviervoudiging tegen 2050
+              wereldwijd
             </li>
             <li className="list-item-steve">
-              België is ook wereldtop in de export van plastic afval. In 2018
-              voerde ons land meer dan een half miljoen ton uit. Daarmee staan
-              we vierde op de wereldranglijst
+              België is ook wereldtop in de export van plastic afval. In 2018 voerde ons land meer dan een half miljoen
+              ton uit. Daarmee staan we vierde op de wereldranglijst
             </li>
             <li className="list-item-steve">
-              Sinds 2018 is er een Chinees invoerverbod waardoor ons land op
-              zoek moest naar een nieuwe markt. Turkije werd de laatste jaren
-              bijzonder populair als afzetmarkt voor ons plastic afval.
-              <br></br>
-              <br></br>
-              Maar uit onderzoek dat Knack voerde, blijkt dat het Turkse
-              ministerie van Milieu onlangs meer dan duizend
-              afvalwaterzuiveringsinstallaties onderzocht, en bijna de helft
-              werkte niet naar behoren. Zorgwekkend. De twee grootste rivieren
-              in de streek behoren bij de meest vervuilde ter wereld. Beide
-              monden uit in de Middellandse Zee. Het zuiden en het zuidoosten
-              van Turkije hebben de hoogste kustlijnvervuiling ter wereld. Dat
-              maakt Turkije, na Egypte, de grootste verantwoordelijke voor de
-              plasticvervuiling van de Middellandse Zee. Uit onderzoek blijkt
-              dat 74 procent van het oppervlaktewater vervuild is, en het is wel
-              westers plastic dat daar een grote rol in speelt.
+              <p>
+                Sinds 2018 is er een Chinees invoerverbod waardoor ons land op zoek moest naar een nieuwe markt. Turkije
+                werd de laatste jaren bijzonder populair als afzetmarkt voor ons plastic afval.
+              </p>
+              <p>
+                Maar uit onderzoek dat Knack voerde, blijkt dat het Turkse ministerie van Milieu onlangs meer dan
+                duizend afvalwaterzuiveringsinstallaties onderzocht, en bijna de helft werkte niet naar behoren.
+                Zorgwekkend. De twee grootste rivieren in de streek behoren bij de meest vervuilde ter wereld. Beide
+                monden uit in de Middellandse Zee. Het zuiden en het zuidoosten van Turkije hebben de hoogste
+                kustlijnvervuiling ter wereld. Dat maakt Turkije, na Egypte, de grootste verantwoordelijke voor de
+                plasticvervuiling van de Middellandse Zee. Uit onderzoek blijkt dat 74 procent van het oppervlaktewater
+                vervuild is, en het is wel westers plastic dat daar een grote rol in speelt.
+              </p>
             </li>
             <li className="list-item-steve">
-              We exporteren plastic afval naar landen waar onze ministers er
-              geen 100 procent zicht op hebben wat er precies gebeurt. Uit
-              onderzoek blijkt dat ons land hierdoor mee de oorzaak is van die
-              grote vervuiling van de Middellandse Zee. Dat is niet enkel
-              schadelijk voor ons imago maar vooral ook zeer schadelijk voor ons
+              We exporteren plastic afval naar landen waar onze ministers er geen 100 procent zicht op hebben wat er
+              precies gebeurt. Uit onderzoek blijkt dat ons land hierdoor mee de oorzaak is van die grote vervuiling van
+              de Middellandse Zee. Dat is niet enkel schadelijk voor ons imago maar vooral ook zeer schadelijk voor ons
               milieu, en daar maak ik mij de meeste zorgen om.
             </li>
           </ul>
           <div>
-            <small><a href="https://www.vlaamsparlement.be/commissies/commissievergaderingen/1339135/verslag/1339542" target="_blank" rel="noopener noreferrer" className="link">bron</a></small>
+            <small>
+              <a
+                href="https://www.vlaamsparlement.be/commissies/commissievergaderingen/1339135/verslag/1339542"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="link"
+              >
+                bron
+              </a>
+            </small>
           </div>
         </div>
 
