@@ -16,10 +16,10 @@ export default function GepaktEnGezakt() {
             lanceren met een crowdfundingproject zodat we weten hoeveel we er moeten laten maken.
           </p>
           <p>
-            Klik
+            Klik{' '}
             <a href="https://samdemaeyer.github.io/gepakt-en-gezakt/" target="_blank" rel="noopener noreferrer">
               hier
-            </a>
+            </a>{' '}
             voor gepakt en gezakt
           </p>
         </div>
