@@ -47,6 +47,17 @@
     }
   }
 
+  .facts-steve{
+    padding: 0;
+    .list-item-steve {
+      padding: 1rem;
+    }
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
   .expandable-list {
     padding-left: 1rem;
     text-align: left;
@@ -82,6 +93,19 @@
       .fact {
         max-width: initial
       }
+    }
+    
+    .facts-steve{     
+      padding: 0;
+      .list-item-steve {
+        padding: .5rem;
+      }
+    }
+    
+    .youtube-sm{
+      height: auto !important;
+      width: auto !important;
     };
+    
   }
 }
